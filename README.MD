@@ -2,7 +2,8 @@
 ML model for predicting maximum weight used in Barbell Bench Press exercise 
 
 ### Dataset
-  - The dataset is priveded by Fidbod company
+  - The dataset is provided by Fidbod company
+  - fitbod_AHORTIANGTHAM_20191031-184801.csv
 
 ### Model (first iteration)
   - built Random Forest model and compare to Linear regrssion
