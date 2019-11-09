@@ -1,3 +1,19 @@
+# fitbod-predict-max-weight
+ML model for predicting maximum weight used in Barbell Bench Press exercise 
+
+### Dataset
+  - The dataset is priveded by Fidbod company
+
+### Model (first iteration)
+  - built Random Forest model and compare to Linear regrssion
+
+### Result
+  - the evaluation metric score is MSE and R^2.
+   
+### Notebook 
+  - Fitbod_HW_AHORTIANGTHAM.ipynb
+  
+### The following is the instruction from Fidbod
 # Fitbod Explaratory Data Analysis
 Exploratory Data Analysis (EDA) is an integral step in building robust ML models at Fitbod. Understanding the summary statistics of datasets can give us insights into model selection, feature importance and so forth. For more information see: https://en.wikipedia.org/wiki/Exploratory_data_analysis
 
