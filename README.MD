@@ -9,7 +9,7 @@ ML model for predicting maximum weight used in Barbell Bench Press exercise
   - built Random Forest model and compare to Linear regression
 
 ### Result
-  - the evaluation metric score is MSE and R^2.
+  - the evaluation metrics used are MSE and R^2.
    
 ### Notebook 
   - Fitbod_HW_AHORTIANGTHAM.ipynb
