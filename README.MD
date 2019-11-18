@@ -14,6 +14,8 @@ ML model for predicting maximum weight used in Barbell Bench Press exercise
 ### Notebook 
   - Fitbod_HW_AHORTIANGTHAM.ipynb
 
+### Presentation
+  - https://drive.google.com/open?id=1jlATrhNepzukMS1ZMQwaMAJcBIdbeT8sxiFfps990-w
 
 # The following is the instruction from Fidbod
 ## Fitbod Explaratory Data Analysis
