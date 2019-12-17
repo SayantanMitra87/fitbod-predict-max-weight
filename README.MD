@@ -3,19 +3,22 @@ ML model for predicting maximum weight used in Barbell Bench Press exercise
 
 ### Dataset
   - The dataset is provided by Fidbod company
-  - fitbod_AHORTIANGTHAM_20191031-184801.csv
+  - `fitbod_AHORTIANGTHAM_20191031-184801.csv`
 
 ### Model (first iteration)
-  - built Random Forest model and compare to Linear regrssion
+  - built Random Forest model and compare to Linear regression
 
 ### Result
-  - the evaluation metric score is MSE and R^2.
+  - the evaluation metrics used are MSE and R^2.
    
 ### Notebook 
   - Fitbod_HW_AHORTIANGTHAM.ipynb
-  
-### The following is the instruction from Fidbod
-# Fitbod Explaratory Data Analysis
+
+### Presentation
+  - https://drive.google.com/open?id=1jlATrhNepzukMS1ZMQwaMAJcBIdbeT8sxiFfps990-w
+
+# The following is the instruction from Fidbod
+## Fitbod Explaratory Data Analysis
 Exploratory Data Analysis (EDA) is an integral step in building robust ML models at Fitbod. Understanding the summary statistics of datasets can give us insights into model selection, feature importance and so forth. For more information see: https://en.wikipedia.org/wiki/Exploratory_data_analysis
 
 Your task is to prepare an EDA using jupyter notebook and python 3. This is deliberately left open ended, so as to best mirror a situation you may encounter at Fitbod. If you want to use a different language please let us know. The dataset is randomly sampled for each candidate, and anonymized to protect sensitive information.
@@ -33,9 +36,11 @@ A jupyter notebook with your results (please include plots inline, short written
 ## Presentation: 
 Be prepared to present this to the data team in a brief 10 - 15 min presentation after submission.
 
-##FAQ
-####Q: What is the unit for the weights?
-####A: ordinarily in our data we have a value that specifies the unit (such as lb or kg), but I didn't include it, so for your purposes you can assume one -- maybe just state that in that some where in your analysis.
-####Q: What if weight is included in a body weight or cardio exercise?
-####A: Another good question, weight is generically named in this case, assume that is distance for the scope of this analysis. 
-####Q: a user has a workoutID, and a workoutID has singlesetID(s)
+## FAQ
+- Q: What is the unit for the weights?
+  - A: ordinarily in our data we have a value that specifies the unit (such as lb or kg), but I didn't include it, so for your purposes you can assume one -- maybe just state that in that some where in your analysis.
+
+- Q: What if weight is included in a body weight or cardio exercise?
+  - A: Another good question, weight is generically named in this case, assume that is distance for the scope of this analysis. 
+
+- Q: a user has a workoutID, and a workoutID has singlesetID(s)
