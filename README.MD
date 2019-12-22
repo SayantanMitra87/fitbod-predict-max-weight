@@ -12,7 +12,7 @@ ML model for predicting maximum weight used in Barbell Bench Press exercise
   - the evaluation metrics used are MSE and R^2.
    
 ### Notebook 
-  - Fitbod_HW_AHORTIANGTHAM.ipynb
+  - `Fitbod_HW_AHORTIANGTHAM.ipynb`
 
 ### Presentation
   - https://drive.google.com/open?id=1jlATrhNepzukMS1ZMQwaMAJcBIdbeT8sxiFfps990-w
