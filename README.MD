@@ -18,4 +18,4 @@ ML model for predicting maximum weight used in Barbell Bench Press exercise
   - https://drive.google.com/open?id=1jlATrhNepzukMS1ZMQwaMAJcBIdbeT8sxiFfps990-w
 
 
-<img src="image_fb.png">
+<img src="0_images/image_fb.png">
